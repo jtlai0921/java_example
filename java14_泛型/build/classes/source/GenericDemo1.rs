@@ -1,0 +1,12 @@
+source.GenericFoo1
+source.Foo2
+source.Foo1
+source.SimpleCollection
+source.GenericFoo6
+source.Foo4
+source.GenericFoo5
+source.GenericDemo1
+source.Foo3
+source.GenericFoo3
+source.Foo5
+source.GenericFoo2

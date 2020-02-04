@@ -1,0 +1,12 @@
+package j01;
+import java.lang.*;
+
+public class Second
+{
+
+  public static void main(String[] args) 
+   {
+      System.out.println("Second-JAVA WORLD");
+
+   } 
+} 
